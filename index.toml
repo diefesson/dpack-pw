@@ -191,6 +191,11 @@ hash = "fdb36813d62baf191d3080bf2189cb2c19b38f4ea91953b386d7de8a39fb4339"
 metafile = true
 
 [[files]]
+file = "mods/terrablender.pw.toml"
+hash = "dc241d2dbc9f38d9ab71ecb899b871c3aef37871ae9f6d83440498cfa0a0829d"
+metafile = true
+
+[[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
 hash = "c5f91f1c4ffd187e336151dc19d50e463df564f172156e9a3f1247e254c48b87"
 metafile = true
