@@ -269,3 +269,8 @@ metafile = true
 file = "resourcepacks/dark-everywhere.pw.toml"
 hash = "0cb340a07b2fb949d9d2fc54be430523e5e6aa2fe82251526f82f59b2acf7787"
 metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "52b2b9aa9245d6ba6e0a22cf96926401535bb722844cb4b0c1ae32a243791241"
+metafile = true
