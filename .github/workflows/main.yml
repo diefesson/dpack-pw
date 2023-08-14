@@ -1,0 +1,23 @@
+name: Export modpack
+run-name: exporting modpack as .mrpack file
+on: [push]
+jobs:
+  export-modpack:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Go environment
+        uses: actions/setup-go@v4.1.0
+      - name: Setup Packwiz
+        run: go install github.com/packwiz/packwiz@latest
+      - name: Export modpack
+        run: packwiz mr export
+      - name: Upload modpack artifact
+        uses: actions/upload-artifact@v3.1.2
+        with:
+          name: "DPack (uncompress me)"
+          path: "*.mrpack"
+          if-no-files-found: error
+          # using default
+          retention-days: 0
