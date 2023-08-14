@@ -254,3 +254,18 @@ metafile = true
 file = "mods/zerocore.pw.toml"
 hash = "65eaeb63f2ee56259ab9f5b18a65c1f818ae3c1db4e4a8a902cdd6e135dddb15"
 metafile = true
+
+[[files]]
+file = "resourcepacks/cleaner-waters.pw.toml"
+hash = "e7386ce31b5a71d395e137289ceef498c4582a61fa61b50027b43c3d4388a42c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cubic-sun-moon.pw.toml"
+hash = "7d8e477e84602d82891c6eedac6783f47708346a8977c75d114e214c672cee58"
+metafile = true
+
+[[files]]
+file = "resourcepacks/dark-everywhere.pw.toml"
+hash = "0cb340a07b2fb949d9d2fc54be430523e5e6aa2fe82251526f82f59b2acf7787"
+metafile = true
