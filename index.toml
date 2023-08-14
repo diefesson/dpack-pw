@@ -256,6 +256,10 @@ hash = "65eaeb63f2ee56259ab9f5b18a65c1f818ae3c1db4e4a8a902cdd6e135dddb15"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "13dafb268641eb0f6bd5e9313d72696901e1c469b39ea99d17270c65938b534a"
+
+[[files]]
 file = "resourcepacks/cleaner-waters.pw.toml"
 hash = "e7386ce31b5a71d395e137289ceef498c4582a61fa61b50027b43c3d4388a42c"
 metafile = true
