@@ -66,6 +66,11 @@ hash = "70f4d89d9dfc1fe16282a52fb1900d76b9c7d1a52a45aed0454f0b4bb7d2ea91"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "f2f725a597da2f36315e4030ab09105a194def1e7a12edfac9797fabfe55a57a"
+metafile = true
+
+[[files]]
 file = "mods/customskinloader.pw.toml"
 hash = "85977dcc0243cf492ebc62dfcc2d054de0ab214f28beb5d9fba10bb699db0520"
 metafile = true
