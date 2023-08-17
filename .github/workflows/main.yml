@@ -12,12 +12,14 @@ jobs:
       - name: Setup Packwiz
         run: go install github.com/packwiz/packwiz@latest
       - name: Export modpack
-        run: packwiz mr export
+        run: |
+          cd modpack
+          packwiz mr export
       - name: Upload modpack artifact
         uses: actions/upload-artifact@v3.1.2
         with:
-          name: "DPack (uncompress me)"
-          path: "*.mrpack"
+          name: "modpack"
+          path: "modpack/*.mrpack"
           if-no-files-found: error
           # using default
           retention-days: 0
