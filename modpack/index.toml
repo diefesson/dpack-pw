@@ -136,6 +136,11 @@ hash = "0d2b6ddcf6bf5191f3245ec00a0e6a87bc05f17259af907a286d7af434b30802"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "368401d0897007d27cb46bf2ad73afe68c4a2911e4495bf5cbed85c287fa87b6"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "56550ee01cc7f3ca1ac4ca2f93bc8a4973cfb0c7ce3ccb73e17137b51a62f3f3"
 metafile = true
