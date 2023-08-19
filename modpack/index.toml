@@ -96,6 +96,11 @@ hash = "36d23c5fa01c75de05828f2e0adcb790c0f463f85a1246f19ae05fa1fdb62e7b"
 metafile = true
 
 [[files]]
+file = "mods/ironchests.pw.toml"
+hash = "f0036efd888114440f961e5de5ac0700a0af7e0d149aab5453506340d3fc8185"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "e94af8d2e5ffe48542220da46864aa6472f91c6c85e357a4a8243ab0f56271ec"
 metafile = true
