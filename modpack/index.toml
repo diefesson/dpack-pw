@@ -56,11 +56,6 @@ hash = "3239c79a0da119f62027ce311021b24273ec504a69b86e3dd5c8c1a6ed1b4843"
 metafile = true
 
 [[files]]
-file = "mods/critters-and-companions.pw.toml"
-hash = "ec9bd327796525df77e373bddb2b928d2593650f55a4bab6a695f688f9a62b45"
-metafile = true
-
-[[files]]
 file = "mods/cucumber.pw.toml"
 hash = "98f2889043b421764c6f5d5f5e5d70d1f024dcdc9d47042397fa7acf76a23926"
 metafile = true
@@ -133,11 +128,6 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "0d2b6ddcf6bf5191f3245ec00a0e6a87bc05f17259af907a286d7af434b30802"
-metafile = true
-
-[[files]]
-file = "mods/naturalist.pw.toml"
-hash = "8731fddfe8f75118a757e2d45a6c17f02f141b7c1761ee92bd23b5968c1d407e"
 metafile = true
 
 [[files]]
