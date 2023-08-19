@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/oculus.properties"
+hash = "5fdd2b7011e51b725d9ae41554ab6d6eb100d048cc380803ad8e0b9e6ba541a3"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "1a15500ae48bc13764b52a084485738ff1acd80107ebde08e2c416bc4e04251c"
 metafile = true
